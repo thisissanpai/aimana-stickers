@@ -1,0 +1,9 @@
+# 原始素材备份（转格式前的大图），不进仓库
+_originals/
+
+# 脚本临时文件
+*.tmp
+
+# Windows 系统文件
+Thumbs.db
+desktop.ini
